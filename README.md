@@ -1,2 +1,1 @@
-# crypto-deposit
-temporarily block the withdrawal of cryptocurrency
+website creation, protection against phishing sites
